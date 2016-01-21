@@ -2,7 +2,7 @@
 var rest = require('request');
 
 var initDB = {
-  adminUser: { email: 'admin@abc.com', password: 'changeme', admin: true, firstName: 'Admin', lastName: 'User' },
+  adminUser: { email: 'zeuslxw@126.com', password: 'mongo.zeusliu8', admin: true, firstName: 'zeus', lastName: '\bliu' },
 
   initialize: function(cfg) {
     initDB.apiKey = cfg.mongo.apiKey;
